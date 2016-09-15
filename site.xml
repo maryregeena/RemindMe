@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/remindme_feature_1.0.0.201609142114.jar" id="remindme_feature" version="1.0.0.201609142114">
+      <category name="general"/>
+   </feature>
+   <category-def name="general" label="General Tools"/>
+</site>
